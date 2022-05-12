@@ -1,1 +1,3 @@
-# juSPH
+# Introduction
+
+This repository is the original code for Paper: [juSPH: A Julia-based open-source package of parallel Smoothed Particle Hydrodynamics (SPH) for dam break problems], which includes both multi-core parallel and serial versions. The code is written in Julia taking advantage of the powerful computing performance, fully open source, and highly readable code features of Julia. It can be integrated with Visual Studio Code to build the run-time environments, Particle data is output in the vtu format, compatible with modern visualization software Paraview.
